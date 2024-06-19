@@ -1,6 +1,6 @@
 MAWT: Multi-Attention-Weight Transformers
 by
-Deniz Askin^
+Deniz Askin
 A thesis submitted to the Faculty of Graduate and Postdoctoral Affairs in partial fulfillment of the requirements for the degree of
 
 PhD of Arts and Social Sciences
