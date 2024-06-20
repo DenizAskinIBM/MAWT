@@ -6,9 +6,9 @@ A thesis submitted to the Faculty of Graduate and Postdoctoral Affairs in partia
 PhD of Arts and Social Sciences
 in
 Cognitive Science
-Carleton University^
+Carleton University
 Ottawa, Ontario
-© 2023, Deniz Askin^
+© 2023, Deniz Askin
 ii
 
 Abstract
