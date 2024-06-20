@@ -8,7 +8,7 @@ in
 Cognitive Science
 Carleton University
 Ottawa, Ontario
-© 2023, Deniz Askin
+2023, Deniz Askin
 ii
 
 Abstract
